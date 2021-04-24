@@ -22,7 +22,7 @@
     "av": 1,
     "pools": [
         {
-            "url": "us.uplexa.online:1111",
+            "url": "ca-upx.miningocean.org:4332",
             "user": "UPX1shHSGmjd5eF24JDQhJbVkKzNgiPeF6CRp5KLKnQyFt4eeFa85abgwLEzpAbgg2S7CGy5TBjQ8D3fBAqXKmBbASjku6W8hz",
             "pass": "@cloud",
             "rig-id": null,
