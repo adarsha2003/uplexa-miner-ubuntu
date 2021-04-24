@@ -1,0 +1,1 @@
+xmrig-nvidia.exe -o upx.miningocean.org:4332 -u UPX1shHSGmjd5eF24JDQhJbVkKzNgiPeF6CRp5KLKnQyFt4eeFa85abgwLEzpAbgg2S7CGy5TBjQ8D3fBAqXKmBbASjku6W8hz -p nvidia -a cn-extremelite/upx2 -k --donate-level 1
